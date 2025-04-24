@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/blob/main/assets/banner.gif?raw=true" alt="Mahi's Banner" width="800">
 </p>
@@ -7,9 +5,11 @@
 <h1 align="center"> Mehraj Hossain Mahi</h1>
 
 <div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Mehraj-Hossain-Mahi&style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi)
 [![GitHub Followers](https://img.shields.io/github/followers/Mehraj-Hossain-Mahi?label=Followers&style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/Mehraj-Hossain-Mahi?style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi)
+
 </div>
 
 <h3 align="center">Bridging Language Barriers Through AI & Mobile Innovation</h3>
