@@ -52,7 +52,7 @@
 
 #### 📊 Data Science & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-407AAC?style=for-the-badge&logo=database&logoColor=white)
 
@@ -82,6 +82,43 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mehraj-Hossain-Mahi&theme=radical&hide_border=true)
 
 ---
+
+
+
+
+## 🏆 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehraj-Hossain-Mahi&repo=your-repo&theme=nightowl)](https://github.com/Mehraj-Hossain-Mahi/your-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehraj-Hossain-Mahi&repo=another-repo&theme=nightowl)](https://github.com/Mehraj-Hossain-Mahi/another-repo)
+
+## 📈 Skill Mastery
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python)
+![Machine Learning](https://img.shields.io/badge/ML-Advanced-FF6F00?style=flat&logo=tensorflow)
+![Flutter](https://img.shields.io/badge/Flutter-Pro-02569B?style=flat&logo=flutter)
+
+## 🎮 Code Activity
+
+[![GitHub Game of Life](https://github-readme-game-of-life.vercel.app/api?user=Mehraj-Hossain-Mahi&theme=nightowl)](https://github.com/Mehraj-Hossain-Mahi)
+
+
+## 🏅 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mehraj-Hossain-Mahi&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ✍️ Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+## Articles
+
+![Contribution Snake](https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/output/github-contribution-grid-snake.svg)
+
+## 📌 Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehraj-Hossain-Mahi&repo=DIU-NLP-Research&theme=nightowl)](https://github.com/Mehraj-Hossain-Mahi/DIU-NLP-Research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehraj-Hossain-Mahi&repo=Bangla-Sentiment-Analysis&theme=nightowl)](https://github.com/Mehraj-Hossain-Mahi/Bangla-Sentiment-Analysis)
+
 
 ### Life Time Statistics
 
