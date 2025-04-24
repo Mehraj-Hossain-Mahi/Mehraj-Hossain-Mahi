@@ -2,7 +2,14 @@
   <img src="https://github.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/blob/main/assets/banner.gif?raw=true" alt="Mahi's Banner" width="800">
 </p>
 
-<h1 align="center"> Mehraj Hossain Mahi</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00CCFF&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!;Greetings%2C+I'm+Mehraj+Hossain+Mahi+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 
 <div align="center">
 
@@ -12,14 +19,14 @@
 
 </div>
 
-<h3 align="center">Bridging Language Barriers Through AI & Mobile Innovation</h3>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Junior+Researcher;Machine+Learning+Specialist;Deep+Learning+Practitioner;NLP+Researcher;Open-Source+Contributor;Mobile+App+Developer;Systems+Architecture+Explorer" alt="Typing SVG" />
   </a>
 </p>
+
+
 
 
 ## 🚀 Current Focus
@@ -111,6 +118,9 @@
 </div>
 
 ---
+### 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mehraj-Hossain-Mahi&theme=radical&hide_border=true)
+
 
 ## 🌐 Connect With Me
 
