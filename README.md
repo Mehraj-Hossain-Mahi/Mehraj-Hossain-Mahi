@@ -105,7 +105,7 @@
 <div align="center" style="margin: 40px 0">
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/mehraj)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/mehraj)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]([https://researchgate.net/profile/mehraj](https://www.researchgate.net/profile/Mehraj-Mahi?ev=hdr_xprf))
 
 </div>
 <p align="center">
