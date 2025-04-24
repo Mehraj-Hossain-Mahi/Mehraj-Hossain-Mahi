@@ -27,42 +27,36 @@
 
 
 
+## 🌟 Featured Expertise
 
-## 🚀 Current Focus
+<div align="center">
+  
+| **Field**               | **Specialization**                                | **Tools**                                                                 |
+|-------------------------|---------------------------------------------------|---------------------------------------------------------------------------|
+| 🤖 Machine Learning     | Deep Learning, Model Optimization                 | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| 🗣️ NLP                 | Dialect Processing, Translation Systems           | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white) |
+| 📱 Mobile Development   | Cross-Platform Apps, Performance Optimization     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 
-| 💼 Category         | 🔧 Project / Technology                          | 📍 Status       |
-|---------------------|--------------------------------------------------|-----------------|
-| 📱 Mobile Dev       | Flutter Portfolio App with Interactive Visuals   | 🛠️ In Progress |
-| 🧠 NLP Research     | Feni Dialect Translation (Bi-LSTM/Transformer)   | 🧪 Prototyping  |
-| ⚙️ Low-Level Systems| Custom RISC-V ISA Extensions                     | 🔍 Researching  |
-
----
-
-## 📚 Currently Exploring
-
-- 🤖 Transformers & Attention in NLP  
-- 🔬 Performance Tuning in Low-Level Architectures  
-- ✍️ Prompt Engineering for LLMs  
-- 🕸️ Flutter Web for Multi-Platform Delivery  
+</div>
 
 ---
 
 ## 🧠 Skills & Tools
 
-### 🛠️ Programming Languages
+#### 🛠️ Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### 🧰 Frameworks & Tools
+#### 🧰 Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### ⚙️ Developer Environment
+#### ⚙️ Developer Environment
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
@@ -70,46 +64,8 @@
 
 ---
 
-## 🏆 Achievements
 
-- 🥇 Winner – **Tech Arena 2024**, App Dev Track *(Flutter)*  
-- 📜 Published – **RISC-V Optimization Paper** in [XYZ Journal](https://link)  
-- 🎓 Finalist – **NLP Hackathon 2023** *(Dialect Translation)*  
-
----
-
-## 👨‍💼 Experience
-
-**📱 Mobile App Developer Intern** @ XYZ Lab  
-*Jan 2024 – Apr 2024*  
-- Built Flutter-based app to visualize IoT sensor data  
-- Integrated Firebase Auth & Firestore syncing
-
-**🌐 Contributor** @ Open Bangla NLP  
-- Developed preprocessing pipeline for dialect classification  
-- Performed performance evaluation of sequence models
-
----
-
-## 🔍 Featured Projects
-
-### 🔤 Feni2Bangla Translator
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/your-repo-link)
-![NLP](https://img.shields.io/badge/Model-BiLSTM+Attention-important?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-10K+_Pairs-success?style=flat-square)  
-> Converts Feni dialect to standard Bangla using Seq2Seq + Attention.
-
----
-
-### 🧩 Custom RISC-V Extension
-[![Paper](https://img.shields.io/badge/Read-Paper-red?style=flat-square&logo=adobe-acrobat-reader)](your-pdf-link)
-![RISC-V](https://img.shields.io/badge/ISA-RISC--V-blueviolet?style=flat-square)
-![Speedup](https://img.shields.io/badge/Speedup-15%25-brightgreen?style=flat-square)  
-> Designed custom compute instructions & verified via QEMU + Spike.
-
----
-
-## 📊 GitHub Analytics
+### 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehraj-Hossain-Mahi&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
@@ -117,8 +73,15 @@
 </div>
 
 ---
-### 🔥 Contribution Streak
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mehraj-Hossain-Mahi&theme=react-dark&hide_border=true&area=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mehraj-Hossain-Mahi&theme=radical&hide_border=true)
+
+---
+
+### Life Time Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehraj-Hossain-Mahi&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true)
+
 
 
 ## 🌐 Connect With Me
@@ -134,6 +97,16 @@
 
 ---
 
+<div align="center" style="margin: 40px 0">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://ko-fi.com/mehraj)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://researchgate.net/profile/mehraj)
+
+</div>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
+
+
+
+
