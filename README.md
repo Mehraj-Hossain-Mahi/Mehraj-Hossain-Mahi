@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00CCFF&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!;Greetings%2C+I'm+Mehraj+Hossain+Mahi+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00CCFF&center=true&vCenter=true&width=800&lines=Assalamu+Alaikum+%F0%9F%91%8B;Welcome+to+My+GitHub+Profile!;Greetings%2C+I'm+Mehraj+Hossain+Mahi+%F0%9F%91%8B&effect=wave" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,10 +19,9 @@
 
 </div>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Junior+Researcher;Machine+Learning+Specialist;Deep+Learning+Practitioner;NLP+Researcher;Open-Source+Contributor;Mobile+App+Developer;Systems+Architecture+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Junior+Researcher;Machine+Learning+Specialist;Deep+Learning+Practitioner;NLP+Researcher;Open-Source+Contributor;Mobile+App+Developer;Systems+Architecture+Explorer&effect=bounce" alt="Typing SVG" />
   </a>
 </p>
 
