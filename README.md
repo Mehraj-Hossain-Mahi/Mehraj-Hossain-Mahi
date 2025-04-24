@@ -1,7 +1,7 @@
 <h1 align="center">👨💻 Mehraj Hossain Mahi</h1>
 <h3 align="center">A Passionate Developer Building Bridges Between Code & Culture</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=Mehraj-Hossain-Mahi&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=Mehraj-Hossain-Mahi&color=blue)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
