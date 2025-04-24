@@ -117,8 +117,10 @@ Developed custom instructions for specific compute patterns and verified using S
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-22D3E3?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehraj-hossain-mahi/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehrajhossainmahi)
+[![NLP Research Profile](https://img.shields.io/badge/Research%20Profile-DIU-blue?style=for-the-badge&logo=academia&logoColor=white)](https://nlp.daffodilvarsity.edu.bd/details/31)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8732--9678-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8732-9678)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
