@@ -2,8 +2,11 @@
 <h3 align="center">A Passionate Developer Building Bridges Between Code & Culture</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;NLP+Enthusiast;Systems+Architecture+Explorer;Open-Source+Contributor" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&center=true&vCenter=true&width=500&lines=Junior+Researcher;Machine+Learning+Specialist;Deep+Learning+Practitioner;NLP+Researcher;Open-Source+Contributor;Mobile+App+Developer;Systems+Architecture+Explorer" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ---
 
