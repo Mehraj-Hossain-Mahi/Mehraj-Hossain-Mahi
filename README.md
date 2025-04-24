@@ -110,9 +110,14 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
+
 ## Articles
 
 ![Contribution Snake](https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/blob/output/github-contribution-grid-snake.svg)
 
 ## 📌 Pinned Repositories
 
