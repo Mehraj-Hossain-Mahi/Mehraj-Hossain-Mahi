@@ -1,8 +1,18 @@
-![Profile views](https://komarev.com/ghpvc/?username=Mehraj-Hossain-Mahi&color=blue)
+<p align="center">
+  <img src="https://github.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/blob/main/assets/banner.gif?raw=true" alt="Mahi's Banner" width="800">
+</p>
 
+<h1 align="center"> Mehraj Hossain Mahi</h1>
 
-<h1 align="center">👨💻 Mehraj Hossain Mahi</h1>
-<h3 align="center">A Passionate Developer Building Bridges Between Code & Culture</h3>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mehraj-Hossain-Mahi&style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi)
+[![GitHub Followers](https://img.shields.io/github/followers/Mehraj-Hossain-Mahi?label=Followers&style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi?tab=followers)
+[![Years Badge](https://badges.pufler.dev/years/Mehraj-Hossain-Mahi?style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi)
+
+</div>
+
+<h3 align="center">Bridging Language Barriers Through AI & Mobile Innovation</h3>
 
 
 <p align="center">
@@ -12,125 +22,106 @@
 </p>
 
 
----
+## 🚀 Current Focus
 
-## 🚀 **Current Focus**
-
-<div align="center">
-
-| Category         | Projects & Technologies                          | Status       |
-|------------------|--------------------------------------------------|--------------|
-| 📱 Mobile Dev    | Flutter Portfolio App with Interactive Visuals   | 🔄 In Progress |
-| 🧠 NLP Research  | Feni Dialect Translation (Bi-LSTM/Transformer)   | 🚧 Prototyping |
-| 🔬 Low-Level Sys | Custom RISC-V ISA Extensions                     | 🔍 Researching |
-
-</div>
+| 💼 Category         | 🔧 Project / Technology                          | 📍 Status       |
+|---------------------|--------------------------------------------------|-----------------|
+| 📱 Mobile Dev       | Flutter Portfolio App with Interactive Visuals   | 🛠️ In Progress |
+| 🧠 NLP Research     | Feni Dialect Translation (Bi-LSTM/Transformer)   | 🧪 Prototyping  |
+| ⚙️ Low-Level Systems| Custom RISC-V ISA Extensions                     | 🔍 Researching  |
 
 ---
 
-## 📚 **Currently Learning**
+## 📚 Currently Exploring
 
-- 🧠 Transformers & Attention Mechanisms in NLP
-- ⚙️ Performance tuning and benchmarking in low-level systems
-- 🧪 Prompt engineering for LLMs and GenAI tools
-- 🕸️ Flutter Web for cross-platform app delivery
+- 🤖 Transformers & Attention in NLP  
+- 🔬 Performance Tuning in Low-Level Architectures  
+- ✍️ Prompt Engineering for LLMs  
+- 🕸️ Flutter Web for Multi-Platform Delivery  
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🧠 Skills & Tools
 
-### **Core Languages**
+### 🛠️ Programming Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### **Frameworks & Tools**
+### 🧰 Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Dev Tools**
+### ⚙️ Developer Environment
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 ---
 
-## 🧠 **Skills Summary**
+## 🏆 Achievements
 
-| Area              | Skills                                                                 |
-|-------------------|------------------------------------------------------------------------|
-| 💬 Languages       | Dart, Python, C, C++, Bash                                              |
-| 🧱 Frameworks      | Flutter, PyTorch, TensorFlow, Keras                                     |
-| 🔗 APIs & Backend  | Firebase, REST APIs, SQLite                                             |
-| 🧰 Tools           | Git, VSCode, LaTeX, Jupyter, QEMU, Spike                               |
-| 📊 Data & ML       | Pandas, NumPy, Scikit-learn, Matplotlib                                 |
+- 🥇 Winner – **Tech Arena 2024**, App Dev Track *(Flutter)*  
+- 📜 Published – **RISC-V Optimization Paper** in [XYZ Journal](https://link)  
+- 🎓 Finalist – **NLP Hackathon 2023** *(Dialect Translation)*  
 
 ---
 
-## 🏆 **Achievements**
+## 👨‍💼 Experience
 
-- 🥇 Winner – "Tech Arena 2024" App Dev Track (Flutter)
-- 📜 Published – Paper on low-level RISC-V optimization in [XYZ Journal](https://link)
-- 🎓 Finalist – National NLP Hackathon 2023 (Dialect Translation Model)
-
----
-
-## 👨‍💼 **Experience**
-
-**Mobile App Developer Intern** @ XYZ Lab  
+**📱 Mobile App Developer Intern** @ XYZ Lab  
 *Jan 2024 – Apr 2024*  
-- Built an internal app using Flutter to visualize sensor data from IoT devices  
-- Integrated Firebase Auth and Firestore for real-time syncing
+- Built Flutter-based app to visualize IoT sensor data  
+- Integrated Firebase Auth & Firestore syncing
 
-**Contributor** @ Open Bangla NLP  
-- Worked on preprocessing pipelines and model evaluation for dialect detection
+**🌐 Contributor** @ Open Bangla NLP  
+- Developed preprocessing pipeline for dialect classification  
+- Performed performance evaluation of sequence models
 
 ---
 
-## 🌟 **Featured Projects**
+## 🔍 Featured Projects
 
 ### 🔤 Feni2Bangla Translator
-[![Open in GitHub](https://img.shields.io/badge/Code-Repository-blue?style=flat-square&logo=github)](https://github.com/your-repo-link)
-![NLP](https://img.shields.io/badge/NLP-LSTM/Bi--LSTM-important?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-10k%2B_Pairs-success?style=flat-square)
+[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat-square&logo=github)](https://github.com/your-repo-link)
+![NLP](https://img.shields.io/badge/Model-BiLSTM+Attention-important?style=flat-square)
+![Dataset](https://img.shields.io/badge/Dataset-10K+_Pairs-success?style=flat-square)  
+> Converts Feni dialect to standard Bangla using Seq2Seq + Attention.
 
-A deep learning model converting Feni dialect to Standard Bangla using sequence-to-sequence architecture with attention mechanism.
+---
 
 ### 🧩 Custom RISC-V Extension
-[![Paper](https://img.shields.io/badge/PDF-Research_Paper-red?style=flat-square&logo=adobe-acrobat-reader)](your-pdf-link)
+[![Paper](https://img.shields.io/badge/Read-Paper-red?style=flat-square&logo=adobe-acrobat-reader)](your-pdf-link)
 ![RISC-V](https://img.shields.io/badge/ISA-RISC--V-blueviolet?style=flat-square)
-![Performance](https://img.shields.io/badge/Speedup-15%25-brightgreen?style=flat-square)
-
-Developed custom instructions for specific compute patterns and verified using Spike simulator and QEMU.
+![Speedup](https://img.shields.io/badge/Speedup-15%25-brightgreen?style=flat-square)  
+> Designed custom compute instructions & verified via QEMU + Spike.
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![Mahi's Stats](https://github-readme-stats.vercel.app/api?username=MehrajHossainMahi14&show_icons=true&theme=nightowl&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajHossainMahi14&layout=compact&theme=nightowl&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehraj-Hossain-Mahi&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehraj-Hossain-Mahi&layout=compact&theme=nightowl&hide_border=true" />
 </div>
 
 ---
 
-## 📬 **Connect With Me**
+## 🌐 Connect With Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-22D3E3?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehraj-hossain-mahi/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehrajhossainmahi)
-[![NLP Research Profile](https://img.shields.io/badge/Research%20Profile-DIU-blue?style=for-the-badge&logo=academia&logoColor=white)](https://nlp.daffodilvarsity.edu.bd/details/31)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8732--9678-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8732-9678)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+<p align="center">
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/🌐 Portfolio-22D3E3?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mehraj-hossain-mahi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/mehrajhossainmahi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://nlp.daffodilvarsity.edu.bd/details/31"><img src="https://img.shields.io/badge/NLP Research-DIU-blue?style=for-the-badge&logo=academia&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0006-8732-9678"><img src="https://img.shields.io/badge/ORCID-0009--0006--8732--9678-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+  <a href="mailto:mehrajhossain854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
