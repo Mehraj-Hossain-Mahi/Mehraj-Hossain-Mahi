@@ -146,7 +146,9 @@ Explore my key projects across various domains:
   <a href="https://www.kaggle.com/mehrajhossainmahi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
   <a href="https://nlp.daffodilvarsity.edu.bd/details/31"><img src="https://img.shields.io/badge/NLP Research-DIU-blue?style=for-the-badge&logo=academia&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0006-8732-9678"><img src="https://img.shields.io/badge/ORCID-0009--0006--8732--9678-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-  <a href="mailto:mehrajhossain854@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mehrajhossain854@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
 </p>
 
 ---
