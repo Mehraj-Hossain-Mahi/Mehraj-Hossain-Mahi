@@ -25,6 +25,11 @@
 
 ---
 
+## Contribution Snake Dark
+
+![Contribution Snake Dark](https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/main/assets/github-contribution-grid-snake-dark.svg)
+
+
 <!-- 📈 2. Activity Stats (Move Streak Up) -->
 ## 🔥 GitHub Stats & Streaks
 
