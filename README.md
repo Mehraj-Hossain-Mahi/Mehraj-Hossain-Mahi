@@ -24,7 +24,7 @@
 
 ---
 
-## Contribution Snake (Auto Light/Dark Mode)
+## Contribution Snake
 
 <p align="center">
   <picture>
