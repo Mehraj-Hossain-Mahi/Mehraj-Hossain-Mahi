@@ -14,7 +14,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Mehraj-Hossain-Mahi&style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi)
 [![GitHub Followers](https://img.shields.io/github/followers/Mehraj-Hossain-Mahi?label=Followers&style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/Mehraj-Hossain-Mahi?style=flat-square&color=00ccff)](https://github.com/Mehraj-Hossain-Mahi)
-
 </div>
 
 <p align="center">
@@ -25,10 +24,17 @@
 
 ---
 
-## Contribution Snake Dark
+## Contribution Snake (Auto Light/Dark Mode)
 
-![Contribution Snake Dark](https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/main/assets/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/main/assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/main/assets/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Mehraj-Hossain-Mahi/Mehraj-Hossain-Mahi/main/assets/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
+---
 
 <!-- 📈 2. Activity Stats (Move Streak Up) -->
 ## 🔥 GitHub Stats & Streaks
@@ -89,9 +95,9 @@
 
 ## 📈 Skill Mastery
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python)
-![Machine Learning](https://img.shields.io/badge/ML-Advanced-FF6F00?style=flat&logo=tensorflow)
-![Flutter](https://img.shields.io/badge/Flutter-Pro-02569B?style=flat&logo=flutter)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python)
+![Machine Learning](https://img.shields.io/badge/ML-Advanced-FF6F00?style=for-the-badge&logo=tensorflow)
+![Flutter](https://img.shields.io/badge/Flutter-Pro-02569B?style=for-the-badge&logo=flutter)
 
 ---
 
@@ -141,14 +147,14 @@ Explore my key projects across various domains:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/🌐 Portfolio-22D3E3?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/🌐 Portfolio-22D3E3?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/mehraj-hossain-mahi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/mehrajhossainmahi"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://nlp.daffodilvarsity.edu.bd/details/31"><img src="https://img.shields.io/badge/NLP Research-DIU-blue?style=for-the-badge&logo=academia&logoColor=white" /></a>
+  <a href="https://nlp.daffodilvarsity.edu.bd/details/31"><img src="https://img.shields.io/badge/NLP_Research-DIU-blue?style=for-the-badge" /></a>
   <a href="https://orcid.org/0009-0006-8732-9678"><img src="https://img.shields.io/badge/ORCID-0009--0006--8732--9678-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<a href="mailto:mehrajhossain854@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-</a>
+  <a href="mailto:mehrajhossain854@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </p>
 
 ---
